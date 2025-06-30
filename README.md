@@ -2,6 +2,9 @@
 A "Bypass charge" module for waybar.
 Allows switching between full charge (100%) and limited charge (e.g., 80%) modes on click.
 
+![bp2](https://github.com/user-attachments/assets/42b2113b-7727-4dbf-a745-44d53286c58c)
+![bp1](https://github.com/user-attachments/assets/6afd537a-6f18-41fe-9d04-a6456ce5595a)
+
 ---
 
 ## Features
