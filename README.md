@@ -60,4 +60,5 @@ Allows switching between full charge (100%) and limited charge (e.g., 80%) modes
 
    
 
-   
+## Note
+The module might freak out when device is unplugged. I might extend the script later to integrate with battery percentage and other factors.
